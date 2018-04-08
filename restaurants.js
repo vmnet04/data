@@ -1,4 +1,4 @@
-[
+var rows =[
   {
     "geo": "82.30, 62.20",
     "city": "Alert",
