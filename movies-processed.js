@@ -1,4 +1,4 @@
-[
+var rows =[
   {
     "name": "Forrest Gump",
     "director": "Robert Zemeckis",
